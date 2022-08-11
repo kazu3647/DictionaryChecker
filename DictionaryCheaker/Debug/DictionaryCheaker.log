@@ -1,0 +1,6 @@
+﻿  DictionaryCheaker.cs
+C:\brain\DictionaryCheaker\DictionaryCheaker.cs(1,1): error C2873: 'System': シンボルを using 宣言の中で使用することはできません。
+C:\brain\DictionaryCheaker\DictionaryCheaker.cs(2,13): error C2059: 構文エラー: '.'
+C:\brain\DictionaryCheaker\DictionaryCheaker.cs(3,13): error C2059: 構文エラー: '.'
+C:\brain\DictionaryCheaker\DictionaryCheaker.cs(6,1): error C3381: 'DicCheak': アセンブリ アクセス指定子は、/clr オプションと共にコンパイルされたコードでのみ使用できます
+C:\brain\DictionaryCheaker\DictionaryCheaker.cs(23,1): fatal error C1004: 予期せぬ EOF が検出されました。
